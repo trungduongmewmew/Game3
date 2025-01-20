@@ -16,7 +16,7 @@ Chạy chương trình crackme.exe bằng cmd ta thu được kết quả sau :
  
 Tôi đã thử cung cấp vào chuỗi password là "duongdt" kết quả trả về là Fail! . Vì vậy nhiệm vụ của chúng ta là phân tích mã nguồn và tìm ra chuỗi password này.  
 
-Có nhiều chương trình hổ trợ để phân tích mã nguồn, trong bài này chúng ta sẽ sử dụng công cụ \[IDAFree\](https://hex-rays.com/ida-free)  
+Có nhiều chương trình hổ trợ để phân tích mã nguồn, trong bài này chúng ta sẽ sử dụng công cụ [IDAFree](https://hex-rays.com/ida-free)  
 
 Giao diện khi load file crackme.exe vào ida:  
 
